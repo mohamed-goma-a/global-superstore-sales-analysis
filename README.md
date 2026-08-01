@@ -64,7 +64,6 @@ The dashboard uses a star schema — one fact table connected to four dimension 
 
 ## 💡 Recommendations
 
-- Add conditional formatting to highlight negative profit values (like Tables) in red.
 - Investigate why Tables is losing money — check if its discount level is too high.
 - Look into why profit is dropping faster than sales — may point to rising costs or heavier discounting.
 - Add a product price/cost field in future versions to enable price-based analysis.
